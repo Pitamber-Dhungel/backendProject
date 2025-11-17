@@ -1,0 +1,25 @@
+{
+  "name": "backendproject",
+  "version": "1.0.0",
+  "description": "full backend ecommerce project",
+  "main": "index.js",
+  "scripts": {
+    "watch":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pitamber-Dhungel/backendProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pitamber-Dhungel/backendProject/issues"
+  },
+  "homepage": "https://github.com/Pitamber-Dhungel/backendProject#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
